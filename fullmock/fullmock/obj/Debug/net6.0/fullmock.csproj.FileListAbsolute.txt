@@ -1,0 +1,15 @@
+E:\programming\с#\fullmock\fullmock\bin\Debug\net6.0\fullmock.exe
+E:\programming\с#\fullmock\fullmock\bin\Debug\net6.0\fullmock.deps.json
+E:\programming\с#\fullmock\fullmock\bin\Debug\net6.0\fullmock.runtimeconfig.json
+E:\programming\с#\fullmock\fullmock\bin\Debug\net6.0\fullmock.dll
+E:\programming\с#\fullmock\fullmock\bin\Debug\net6.0\ref\fullmock.dll
+E:\programming\с#\fullmock\fullmock\bin\Debug\net6.0\fullmock.pdb
+E:\programming\с#\fullmock\fullmock\obj\Debug\net6.0\fullmock.csproj.AssemblyReference.cache
+E:\programming\с#\fullmock\fullmock\obj\Debug\net6.0\fullmock.GeneratedMSBuildEditorConfig.editorconfig
+E:\programming\с#\fullmock\fullmock\obj\Debug\net6.0\fullmock.AssemblyInfoInputs.cache
+E:\programming\с#\fullmock\fullmock\obj\Debug\net6.0\fullmock.AssemblyInfo.cs
+E:\programming\с#\fullmock\fullmock\obj\Debug\net6.0\fullmock.csproj.CoreCompileInputs.cache
+E:\programming\с#\fullmock\fullmock\obj\Debug\net6.0\fullmock.dll
+E:\programming\с#\fullmock\fullmock\obj\Debug\net6.0\ref\fullmock.dll
+E:\programming\с#\fullmock\fullmock\obj\Debug\net6.0\fullmock.pdb
+E:\programming\с#\fullmock\fullmock\obj\Debug\net6.0\fullmock.genruntimeconfig.cache
